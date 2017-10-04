@@ -1,0 +1,13 @@
+@font-face {
+   font-family: 'MyFont';
+   src:  url('../assets/Pangolin-Regular.ttf');
+   font-weight: 600;
+   font-style: normal;
+ }
+
+.hello {
+  color: red;
+  font-size: 2em;
+  font-family: 'MyFont';
+  background: url('../assets/larry.png');
+}
